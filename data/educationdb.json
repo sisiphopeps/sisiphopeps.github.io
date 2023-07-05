@@ -1,0 +1,22 @@
+{
+    "education": [
+        {
+            "id":1,
+            "period": "2010-2016",
+            "name": "Ncora Flats Primary School",
+            "desc": "Primary Education"
+        },
+        {
+            "id":2,
+            "period": "2017-2019",
+            "name": "Phandulwazi High School",
+            "desc": "High School Education"
+        },
+        {
+            "id":3,
+            "period": "2020-2022",
+            "name": "Stellenbosch University",
+            "desc": "Bcom Management Science (incomplete)"
+        }
+    ]
+}
